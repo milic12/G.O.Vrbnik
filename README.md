@@ -1,7 +1,6 @@
 # [G.O.Vrbnik Business Website](http://pzi1.fesb.hr/~milic/GO-Vrbnik/) 
 
 
-![Product Presentation Image](https://s3.amazonaws.com/creativetim_bucket/products/83/original/opt_mk_react_thumbnail.jpg)
 [![img1.jpg](https://i.postimg.cc/hGtr8yrg/img1.jpg)](https://postimg.cc/bZ4kpRWF)
 [![img2.jpg](https://i.postimg.cc/2SwGZRn2/img2.jpg)](https://postimg.cc/k22K0H1b)
 [![img3.jpg](https://i.postimg.cc/1tLrQ9Z5/img3.jpg)](https://postimg.cc/BLBK5f6d)
