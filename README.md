@@ -12,7 +12,6 @@
 
 ## Quick start
 
-- `npm i material-kit-react`
 - [Download from Github](https://github.com/milic12/G.O.Vrbnik/archive/master.zip).
 - or Clone
 - ```bash
