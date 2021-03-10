@@ -13,8 +13,8 @@
 ## Quick start
 
 - [Download from Github](https://github.com/milic12/G.O.Vrbnik/archive/master.zip).
-- or Clone
-- ```bash
+- Clone
+```bash
 https://github.com/milic12/G.O.Vrbnik.git
 ```
 Install the dependencies:
